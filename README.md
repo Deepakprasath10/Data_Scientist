@@ -13,7 +13,7 @@ Supervised learning uses labeled data to train models for predictions. It is div
 
 - **Decision Trees** – [Decision Tree Repo](https://github.com/Deepakprasath10/DecisionTree)  
 - **Random Forest** – [Random Forest Repo](https://github.com/Deepakprasath10/Random_forest)  
-- **SVM (Support Vector Machines)** – [SVM Repo](https://github.com/pb111/Support-Vector-Machines-Project)  
+- **SVM (Support Vector Machines)** – [SVM Repo](https://github.com/Deepakprasath10/Svm)  
 - **KNN (K-Nearest Neighbors)** – [KNN Repo](https://github.com/Deepakprasath10/KNN/tree/main)  
 - **Logistic Regression** – [Logistic Regression Repo](https://github.com/pb111/Logistic-Regression-in-Python-Project)  
 - **Naive Bayes** – [Naive Bayes Repo](https://github.com/shiivashaakeri/Naive-Bayes-Classifier-From-Scratch)  
