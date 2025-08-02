@@ -17,7 +17,7 @@ Supervised learning uses labeled data to train models for predictions. It is div
 - **KNN (K-Nearest Neighbors)** – [KNN Repo](https://github.com/Deepakprasath10/KNN/tree/main)  
 - **Logistic Regression** – [Logistic Regression Repo](https://github.com/Deepakprasath10/Logistic)  
 - **Naive Bayes** – [Naive Bayes Repo](https://github.com/Deepakprasath10/naive)  
-- **Gradient Boosting** – [Gradient Boosting Repo](https://github.com/dmlc/xgboost)
+- **Gradient Boosting** – [Gradient Boosting Repo](https://github.com/Deepakprasath10/Gradient)
 
 ---
 
